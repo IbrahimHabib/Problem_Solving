@@ -7,3 +7,4 @@ Problem set
 4)Ksenia and Pan Scales: http://codeforces.com/contest/382/problem/A
 5)Decoding: http://codeforces.com/contest/746/problem/B
 6)Petya_and_Countryside: http://codeforces.com/contest/66/problem/B
+7)BearandFinding_Criminals: http://codeforces.com/contest/680/problem/B
