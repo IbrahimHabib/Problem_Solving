@@ -8,3 +8,4 @@ Problem set
 5)Decoding: http://codeforces.com/contest/746/problem/B
 6)Petya_and_Countryside: http://codeforces.com/contest/66/problem/B
 7)BearandFinding_Criminals: http://codeforces.com/contest/680/problem/B
+8)BurglarAndMatches: http://codeforces.com/contest/16/problem/B
