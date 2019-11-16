@@ -9,3 +9,4 @@ Problem set
 6)Petya_and_Countryside: http://codeforces.com/contest/66/problem/B
 7)BearandFinding_Criminals: http://codeforces.com/contest/680/problem/B
 8)BurglarAndMatches: http://codeforces.com/contest/16/problem/B
+9)Coins:http://codeforces.com/contest/47/problem/B
